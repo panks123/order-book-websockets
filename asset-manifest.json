@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/order-book-websockets/static/css/main.6f85bdf3.css",
+    "main.js": "/order-book-websockets/static/js/main.53d1d6b9.js",
+    "static/js/787.d09b408c.chunk.js": "/order-book-websockets/static/js/787.d09b408c.chunk.js",
+    "index.html": "/order-book-websockets/index.html",
+    "main.6f85bdf3.css.map": "/order-book-websockets/static/css/main.6f85bdf3.css.map",
+    "main.53d1d6b9.js.map": "/order-book-websockets/static/js/main.53d1d6b9.js.map",
+    "787.d09b408c.chunk.js.map": "/order-book-websockets/static/js/787.d09b408c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f85bdf3.css",
+    "static/js/main.53d1d6b9.js"
+  ]
+}
